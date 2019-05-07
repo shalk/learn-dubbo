@@ -1,13 +1,18 @@
 package com.xshalk.dubbo.simple;
 
 import com.xshalk.dubbo.simple.api.DemoService;
+import org.apache.commons.logging.Log;
+import org.apache.commons.logging.LogFactory;
 
 /**
  * @author xiaokun
  * @since 19-5-7
  */
 public class DemoServiceImpl implements DemoService {
+    public static Log LOGGER = LogFactory.getLog(DemoServiceImpl.class);
+
     public String sayHello(String name) {
+        LOGGER.info("say hello" + name);
         return "hello " + name;
     }
 }
