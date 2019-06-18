@@ -1,4 +1,4 @@
-package com.xshalk.dubbo.simple;
+package com.xshalk.dubbo.simple.xmlconfig;
 
 import com.xshalk.dubbo.simple.api.DemoService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

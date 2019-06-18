@@ -14,5 +14,6 @@ public class Consumer {
         DemoService demoService = (DemoService) context.getBean("bean1");
         String hello = demoService.sayHello("zookeeper" );
         System.out.println(hello);
+
     }
 }
