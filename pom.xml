@@ -11,6 +11,7 @@
         <module>simple-api</module>
         <module>simple-zookeeper</module>
         <module>nacos</module>
+        <module>nacos-dubbo-springboot</module>
     </modules>
     <properties>
         <maven.compiler.target>1.8</maven.compiler.target>
