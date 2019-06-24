@@ -1,4 +1,4 @@
-package com.xshalk.dubbo.nacos;
+package com.xshalk.dubbo.nacos.api;
 
 
 /*
