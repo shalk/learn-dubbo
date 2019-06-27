@@ -16,6 +16,7 @@
     <properties>
         <nacos-config-spring-boot.version>0.2.1</nacos-config-spring-boot.version>
         <spring-boot.version>2.1.5.RELEASE</spring-boot.version>
+        <nacos-client.version>0.8.0</nacos-client.version>
         <dubbo.version>2.7.1</dubbo.version>
 
         <maven.compiler.source>1.8</maven.compiler.source>
@@ -43,7 +44,7 @@
         <dependency>
             <groupId>com.alibaba.nacos</groupId>
             <artifactId>nacos-client</artifactId>
-            <version>0.8.0</version>
+            <version>${nacos-client.version}</version>
         </dependency>
         <!-- Dubbo dependency -->
         <dependency>
