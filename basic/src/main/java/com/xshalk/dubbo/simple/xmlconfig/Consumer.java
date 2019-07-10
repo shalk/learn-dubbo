@@ -4,7 +4,7 @@ import com.xshalk.dubbo.simple.api.DemoService;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-5-7
  */
 public class Consumer {

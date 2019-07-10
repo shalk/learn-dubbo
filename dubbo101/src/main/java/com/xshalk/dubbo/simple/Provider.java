@@ -8,7 +8,7 @@ import org.apache.dubbo.config.ServiceConfig;
 import java.io.IOException;
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-6-20
  */
 public class Provider {

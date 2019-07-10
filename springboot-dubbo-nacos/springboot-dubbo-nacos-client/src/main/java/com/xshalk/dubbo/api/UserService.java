@@ -1,7 +1,7 @@
 package com.xshalk.dubbo.api;
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-6-25
  */
 public interface UserService {

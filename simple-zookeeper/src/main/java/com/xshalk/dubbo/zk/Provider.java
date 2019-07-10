@@ -5,7 +5,7 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 import java.io.IOException;
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-5-8
  */
 public class Provider {

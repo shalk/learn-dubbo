@@ -1,7 +1,7 @@
 package com.xshalk.dubbo.nacos.dubbo.api;
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-6-18
  */
 public interface DemoService {

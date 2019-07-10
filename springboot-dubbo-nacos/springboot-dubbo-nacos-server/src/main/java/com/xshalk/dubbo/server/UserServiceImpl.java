@@ -4,7 +4,7 @@ import com.xshalk.dubbo.api.UserService;
 import org.apache.dubbo.config.annotation.Service;
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-6-25
  */
 @Service

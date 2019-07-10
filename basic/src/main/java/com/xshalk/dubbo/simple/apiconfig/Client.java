@@ -7,7 +7,7 @@ import org.apache.dubbo.config.RegistryConfig;
 
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-6-18
  */
 public class Client {

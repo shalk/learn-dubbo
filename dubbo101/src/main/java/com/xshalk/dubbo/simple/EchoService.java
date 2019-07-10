@@ -1,7 +1,7 @@
 package com.xshalk.dubbo.simple;
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-6-20
  */
 public interface EchoService {

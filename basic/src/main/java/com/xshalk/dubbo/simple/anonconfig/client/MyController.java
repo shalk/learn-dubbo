@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-6-18
  */
 @RestController("test")

@@ -5,7 +5,7 @@ import org.apache.dubbo.config.ReferenceConfig;
 import org.apache.dubbo.config.RegistryConfig;
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-6-20
  */
 public class Consumer {

@@ -22,7 +22,7 @@ import java.util.Properties;
 import java.util.concurrent.Executor;
 
 /**
- * @author xiaokun
+ * @author shalk
  * @since 19-6-19
  */
 public class ConfigExample {
