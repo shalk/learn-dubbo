@@ -23,7 +23,7 @@ public class Consumer {
         config.setInterface(EchoService.class);
 
         EchoService client = config.get();
-        for (int i = 0 ; i < 10; i++) {
+        for (int i = 0 ; i < 2; i++) {
             System.out.println(client.echo("node" + i));
         }
     }
