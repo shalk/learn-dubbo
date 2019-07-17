@@ -1,0 +1,2 @@
+race=com.xshalk.dubbo.spi.dubbo.ex1.RaceCar
+truck=com.xshalk.dubbo.spi.dubbo.ex1.TruckCar
